@@ -1,0 +1,11 @@
+Program Ideas
+
+magic 8ball
+rock paper scissors
+dice roll generator
+web scrapper?
+
+
+Project ideas
+
+navigation glasses (lights blink for turns)
