@@ -1,11 +1,15 @@
 Program Ideas
-
-magic 8ball
-rock paper scissors
-dice roll generator
-web scrapper?
+	magic 8ball
+	rock paper scissors
+	dice roll generator
+	web scrapper for:
+		historical temperature data by city
+		satellite images to create timelapse of input coordinates
 
 
 Project ideas
-
-navigation glasses (lights blink for turns)
+	navigation glasses (left or right lights blink for turns)
+	motorized cubes that can self assemble
+	intelligent boardgame piece miniature that tracks player history
+	smart baseball capable of detecting speed and height thrown
+	SLAM robot using ROS and turtlebot platform
